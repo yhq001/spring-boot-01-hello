@@ -25,7 +25,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Title: HelloMainApplication
  * @Description: com.mengxuegu.springboot
  * @Auther: www.mengxuegu.com
- * @Version: 1.0
+ * @Version: 1.3
  */
 @SpringBootApplication
 public class HelloMainApplication {
